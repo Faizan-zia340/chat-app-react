@@ -5,7 +5,7 @@ import Signup from "./screens/Signup";
 // import ImgSwap from "./screens/ImgSwap";
 import Profile from "./screens/Profile";
 import Loading from "./screens/Loading";
-import ChatList from "./screens/chatList";
+import ChatList from "./screens/ChatList";
 import NotFound from "./screens/NotFound";
 import Location from "./screens/Location";
 // import MarketPlace from "./screens/MarketPlace";
